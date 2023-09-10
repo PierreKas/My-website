@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+<title>studies</title>
+<head>
+<h2>My studies</h2>
+<h3><b>High School</h3></b>
+<p><b>I</b>nstitut <b>T</b>echnique <b>I</b>ndustriel de <b>G</b>oma (<b>ITIG</b>)</p>
+<p><b>Option: </b>ELECTRONIC</p>
+<p><b>Address:</b>DRC/Goma</p>
+<h3><b>Undergraduate</h3></b>
+<p><b>A</b>dventist <b>U</b>niversity of <b>C</b>entral <b>A</b>frica (<b>AUCA/RWANDA</b>)</p>
+<p><b>Faculty: </b>Information Technology</p>
+<p><b>Department: </b>Software Engineering</p>
+<p><b>Address:</b>RWANDA/Kigali</p>
+<p>As I am a current student you can see my current grades <a href="24710-1.pdf">here</a> </p>
+<p>If you wanna know more about AUCA please <a href="https://auca.ac.rw/">cleak here</a></p>
+<p>cleak <a href="WhatsApp Image 2023-07-07 at 4.04.25 PM.jpeg">here</a> to see my student card</p>
+</html>

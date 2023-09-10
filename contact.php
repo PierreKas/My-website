@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+<title>Contacts</title>
+<head>
+<h2>My contacts</h2>
+<h3><b>Phone numbers</h3></b>
+	<p>📞 +243 972 931 280</p>
+	<p>📞 +250 790 929 575<p>
+	<h3><b>Email address</h3></b>
+	<p>chikukaspierre@gmail.com</p>
+	<center>
+        <p>If you wanna contact me please fill this form</p>
+        <form action="connect.php" method="post">
+			<pre>
+            <label>First name </label><input type="text" name="First_Name" placeholder="firt name" maxlength="20"><br>
+		    <!-- <label>Last name </label><input type="text" placeholder="last name" maxlength="20"><br>-->
+            <label>Email </label><input type="email" name="Email" placeholder="youremail@gmail.com"><br>
+            <label>Phone number </label><input type="tel" name="Phone" placeholder="+243 972 931 280" maxlength="20"><br>
+            <label>Any message to me </label> <textarea type="text"  name="Message" class="SetSize"   placeholder="enter your message here" maxlength="500"></textarea><br>
+            <p><input type="submit" value="submit"><button>clear</button></p>
+			
+			</pre> 
+        </form>
+		<p>For more information follow us on <a href="https://www.facebook.com/">https://www.facebook.com/</a></p>
+        </center>
+</html>

@@ -1,0 +1,25 @@
+body{
+    /*background-color: black;*/
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+table{
+    text-align: center;
+    background-color: black;
+    /* bgcolor="black"*/
+}
+td{
+    color: brown;
+}
+tr{
+    background-color:white ;
+    
+    /* bgcolor="white"*/
+}
+button{
+    background-color: green;
+    color: black;
+}

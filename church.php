@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+<title>church</title>
+<head>
+<h2>My church</h2>
+<h3><b>In DRC/Goma</b></h3>
+<p>Communauté Baptiste au Centre de l'Afique/Goma-Ouest <b>(CBCA/Goma-Ouest)</b></p>
+<h3><b>In Kigali</b></h3>
+<p class="cur_address">Kingdom Believers Church <b>(KBC)</b></p>
+</html>

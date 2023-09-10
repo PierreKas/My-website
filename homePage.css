@@ -1,0 +1,19 @@
+ul{
+    /*border-width:20px;
+    border-style:solid;
+    border-color: green;*/
+    border: 20px solid gray;
+    list-style-type:none;
+    
+}
+li{list-style-type:none;
+    color: aquamarine;
+   /* text-shadow:6px 6px green;*/
+}
+/*#hoPa{
+    background-color: rgb(235, 153, 153);
+}*/
+body{
+    background: linear-gradient(to bottom, gray, gray, gray);
+     /*background: linear-gradient(to top left, rgb(184, 196, 184), rgb(132, 162, 132), rgb(103, 153, 103));*/
+   }

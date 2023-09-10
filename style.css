@@ -1,0 +1,37 @@
+h2{
+    color: black;
+    background-color: rgb(150, 146, 146);
+    font-size: 60px;
+    text-decoration: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    text-align: center;
+}
+p{
+    color:white;
+    /*color: rgb(167, 139, 139);*/
+    text-align: center;
+    line-height: 20px;
+    letter-spacing: normal;
+    column-count:;
+    column-gap:;
+}
+h3{
+    color: rgb(50, 3, 3);
+    text-align: center;
+}
+.cur_address{
+    color: rgb(176, 40, 40);
+
+}
+body{
+ background: linear-gradient(to bottom, gray, gray, gray);
+  /*background: linear-gradient(to top left, rgb(184, 196, 184), rgb(132, 162, 132), rgb(103, 153, 103));*/
+}
+.SetSize{
+    width:  350px;
+    /*width: 250px;*/
+}
+pre{
+    text-align:left;
+    border: 25px solid black;
+}
